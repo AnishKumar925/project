@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table{
+	margin-top: 50px;
+	text-align: center;
+	background: rgb(12, 222, 36);
+	color: white;
+    border-radius: 15px;
+}
+
+#show th, #show td{
+	padding: 16px;
+}
+
+#btna td input{
+	width: 100%;
+}
